@@ -1,5 +1,5 @@
 def square_array(array)
   array = []
-  array.each do |element|
-  
+  array.each {|element|} squa
+  squared element << 
 end
